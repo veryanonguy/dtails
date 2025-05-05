@@ -2,7 +2,7 @@ import sys
 import subprocess
 import os
 import re
-from src.apps import *
+from src.installer import *
 
 ################## START Functions to unpack and pack the final image ##################
 def iso_work(iso):
